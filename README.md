@@ -1,5 +1,5 @@
-## Oi eu sou o Caique Braga. Entusiasta em tecnologia com foco em desenvolvimento
-front-end, estou buscando conhecimentos e
+## Oi eu sou o Caique Braga. 
+Entusiasta em tecnologia com foco em desenvolvimento front-end, estou buscando conhecimentos e
 desenvolvendo habilidades nas tecnologias mais
 utilizadas atualmente.
 !
