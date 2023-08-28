@@ -1,0 +1,7 @@
+# COMENTÁRIO.
+.idea/
+.vscode/
+
+# COMENTÁRIO.
+*.iml
+*.log
