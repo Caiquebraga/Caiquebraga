@@ -1,10 +1,16 @@
 
 ## Estatísticas
 
-<div align="left">
-    <a href="https://github.com/kleberalv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquebraga&layout=compact&langs_count=7&theme=blue-green"/>
+<div align="center">
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&&theme=tokyonight" alt="Caiquebraga" />
+    </a>
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green"/>
+    </a>
 </div>
 
 ## Habilidade e Tecnologias
