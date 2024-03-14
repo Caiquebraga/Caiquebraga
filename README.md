@@ -19,8 +19,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-               
-    badge&logo=codeigniter&logoColor=white">
+    <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-thebadge&logo=codeigniter&logoColor=white">
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -51,13 +50,13 @@
 
 <div align="left">
      <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-    <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual- 
-   studio&logoColor=white">
+    <img align="center" alt="Visual Studio"                                                        
+    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the- 
     badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
-    <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-        
-    badge&logo=.net&logoColor=white">
+    <img align="center" alt="Entity Framework"                                                    
+         src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
@@ -66,7 +65,8 @@
     <img align="center" alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
     <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
     <img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-430098?style=for-the-badge&logo=dbeaver&logoColor=white">
-    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    <img align="center" alt="SQL Server"                                                                
+    src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -84,7 +84,8 @@
 ## Minhas Redes Sociais
 
 <div align="left">
-   <a href="mailto:caiquebsousa@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="mailto:caiquebsousa@outlook.com"><img                                                                 
+src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caique-braga-sousa-8b08ab220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+5561983419094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
