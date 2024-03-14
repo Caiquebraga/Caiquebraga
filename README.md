@@ -16,9 +16,11 @@
 ## Habilidade e Tecnologias
 
 <div align="left">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+    <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-               
+    badge&logo=codeigniter&logoColor=white">
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -39,6 +41,7 @@
 ## Ambiente de Desenvolvimento Integrado
 
 <div>
+    <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
      <img align="center" alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
     <img align="center" alt="PHPStorm" src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
@@ -47,6 +50,16 @@
 ## Ambiente e Ferramentas de Desenvolvimento 
 
 <div align="left">
+     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual- 
+   studio&logoColor=white">
+    <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the- 
+    badge&logo=visual-studio-code&logoColor=white">
+    <img align="center" alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
+    <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-        
+    badge&logo=.net&logoColor=white">
+    <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
     <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
