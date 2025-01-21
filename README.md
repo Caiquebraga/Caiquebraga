@@ -1,7 +1,18 @@
 
 ## Estatísticas
 
-<div align="center"> <a href="https://github.com/Caiquebraga"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&exclude_repo=repositorio1,repositorio2"/> </a> <a href="https://github.com/Caiquebraga"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Caiquebraga" /> </a> <a href="https://github.com/Caiquebraga"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2"/> </a> </div>
+<div align="center">
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+    </a>
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Caiquebraga" />
+    </a>
+    <a href="https://github.com/Caiquebraga">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2"/>
+    </a>
+</div>
+
 
 ## Habilidade e Tecnologias
 
