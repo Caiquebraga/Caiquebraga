@@ -1,17 +1,21 @@
-
 ## Estatísticas
 
 <div align="center">
-    <a href="https://github.com/Caiquebraga">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+    <!-- Link para o GitHub -->
+    <a href="https://github.com/Caiquebraga" target="_blank">
+        <!-- Estatísticas do GitHub -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs" alt="Estatísticas de Caiquebraga" />
     </a>
-    <a href="https://github.com/Caiquebraga">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Caiquebraga" />
+    <a href="https://github.com/Caiquebraga" target="_blank">
+        <!-- Streak Stats -->
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Contribuições de Caiquebraga" />
     </a>
-    <a href="https://github.com/Caiquebraga">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2"/>
+    <a href="https://github.com/Caiquebraga" target="_blank">
+        <!-- Linguagens mais usadas -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2" alt="Linguagens mais usadas por Caiquebraga" />
     </a>
 </div>
+
 
 
 ## Habilidade e Tecnologias
