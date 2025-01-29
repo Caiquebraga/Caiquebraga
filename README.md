@@ -3,8 +3,7 @@
 <div align="center">
     <!-- Link para o GitHub -->
     <a href="https://github.com/Caiquebraga" target="_blank">
-        <!-- Estatísticas do GitHub -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs" alt="Estatísticas de Caiquebraga" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&cache_seconds=1800" alt="Linguagens mais usadas por Caiquebraga" />
     </a>
     <a href="https://github.com/Caiquebraga" target="_blank">
         <!-- Streak Stats -->
