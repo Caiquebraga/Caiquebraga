@@ -7,7 +7,7 @@
     </a>
     <!-- Streak Stats -->
     <a href="https://github.com/Caiquebraga" target="_blank">
-        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Contribuições de Caiquebraga" />
+        <img height="150em" src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight" alt="Contribuições de Caiquebraga" />
     </a>
 </div>
 <br>
