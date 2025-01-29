@@ -1,19 +1,23 @@
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
-    <!-- Link para o GitHub -->
+    <!-- Primeira linha: Estatísticas do GitHub -->
     <a href="https://github.com/Caiquebraga" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&cache_seconds=1800" alt="Linguagens mais usadas por Caiquebraga" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&cache_seconds=1800" alt="Estatísticas de Caiquebraga" />
     </a>
+    <!-- Streak Stats -->
     <a href="https://github.com/Caiquebraga" target="_blank">
-        <!-- Streak Stats -->
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Contribuições de Caiquebraga" />
-    </a>
-    <a href="https://github.com/Caiquebraga" target="_blank">
-        <!-- Linguagens mais usadas -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2" alt="Linguagens mais usadas por Caiquebraga" />
+        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caiquebraga&theme=tokyonight" alt="Contribuições de Caiquebraga" />
     </a>
 </div>
+<br>
+<div align="center">
+    <!-- Segunda linha: Linguagens mais usadas -->
+    <a href="https://github.com/Caiquebraga" target="_blank">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=7&theme=blue-green&exclude_repo=repositorio1,repositorio2&cache_seconds=1800" alt="Linguagens mais usadas por Caiquebraga" />
+    </a>
+</div>
+
 
 
 
