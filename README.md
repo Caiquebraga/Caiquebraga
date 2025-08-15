@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Caique
 
-Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** e **Angular (TypeScript)**, além de outras stacks.
+Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)**, **Angular (TypeScript)** e outras stacks.
 
 ---
 
@@ -10,14 +10,14 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
   <!-- Estatísticas gerais -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=15"
+         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=18"
          alt="Estatísticas de Caiquebraga" />
   </a>
 
   <!-- Streak (dias seguidos) -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=15"
+         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=18"
          alt="Contribuições de Caiquebraga" />
   </a>
 </div>
@@ -28,16 +28,10 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
   <!-- Linguagens mais usadas: favorece Java/TypeScript sem esconder PHP/Blade -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&size_weight=0.25&count_weight=0.75&exclude_repo=repo-php-enorme-1,repo-php-enorme-2&v=15"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&count_weight=0.92&size_weight=0.08&v=18"
          alt="Linguagens mais usadas por Caiquebraga" />
   </a>
 </div>
-
-> 💡 **Dicas rápidas**
-> - **Angular aparece como TypeScript** (o card conta linguagens, não frameworks).
-> - `size_weight=0.25` e `count_weight=0.75` aumentam a influência de **ter muitos repos** Java/TS.
-> - `exclude_repo=` remove do **cálculo** apenas os repos gigantes (não esconde PHP/Blade do card).
-> - `v=15` só força atualização do cache (mude o número quando quiser “refresh”).
 
 ---
 
@@ -51,8 +45,6 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="API REST" src="https://img.shields.io/badge/API_REST-FF5733?style=for-the-badge">    
 </div>
@@ -64,8 +56,7 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
 <div>
   <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img align="center" alt="Visual Studio Code"
-       src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
   <img align="center" alt="PHPStorm" src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
 </div>
