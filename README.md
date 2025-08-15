@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Caique
 
-Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)**, **PHP/Laravel**, **Front-end** (Angular/React/Vue) e mais.
+Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** e **Angular (TypeScript)**, além de outras stacks.
 
 ---
 
@@ -10,14 +10,14 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)**,
   <!-- Estatísticas gerais -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=12"
+         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=14"
          alt="Estatísticas de Caiquebraga" />
   </a>
 
   <!-- Streak (dias seguidos) -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=12"
+         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=14"
          alt="Contribuições de Caiquebraga" />
   </a>
 </div>
@@ -25,13 +25,26 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)**,
 <br>
 
 <div align="center">
-  <!-- Linguagens mais usadas (forçando atualização com v=12) -->
+  <!-- Linguagens mais usadas: favorece Java/TypeScript sem esconder PHP/Blade -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&v=12"
-         alt="Linguagens mais usadas por Caiquebraga" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga
+&layout=compact
+&langs_count=10
+&theme=blue-green
+&size_weight=0.25
+&count_weight=0.75
+&exclude_repo=repo-php-enorme-1,repo-php-enorme-2
+&v=14"
+         alt="Linguagens mais usadas por Caiquebraga (Java e Angular/TypeScript em destaque)" />
   </a>
 </div>
+
+> 🔎 **Notas**  
+> • **Angular aparece como TypeScript** (o card contabiliza linguagens, não frameworks).  
+> • `size_weight=0.25` e `count_weight=0.75` dão mais peso para **muitos repos** Java/TS.  
+> • Substitua `repo-php-enorme-1,repo-php-enorme-2` pelos **nomes reais** dos **poucos** repositórios PHP desproporcionalmente grandes (se não tiver, remova o parâmetro).  
+> • `v=14` só força atualizar o cache; aumente o número quando quiser “refresh”.
 
 ---
 
@@ -40,14 +53,13 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)**,
 <div align="left">  
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="JPA" src="https://img.shields.io/badge/JPA-FF6D00?style=for-the-badge">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="AJAX" src="https://img.shields.io/badge/AJAX-0082FC?style=for-the-badge&logo=ajax&logoColor=white">
-  <img align="center" alt="axios" src="https://img.shields.io/badge/axios-007ACC?style=for-the-badge&logo=axios&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="API REST" src="https://img.shields.io/badge/API_REST-FF5733?style=for-the-badge">    
 </div>
