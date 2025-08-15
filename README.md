@@ -10,14 +10,14 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
   <!-- Estatísticas gerais -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=14"
+         src="https://github-readme-stats.vercel.app/api?username=Caiquebraga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=prs,issues,contribs&v=15"
          alt="Estatísticas de Caiquebraga" />
   </a>
 
   <!-- Streak (dias seguidos) -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=14"
+         src="https://streak-stats.demolab.com/?user=Caiquebraga&theme=tokyonight&v=15"
          alt="Contribuições de Caiquebraga" />
   </a>
 </div>
@@ -28,23 +28,16 @@ Bem-vindo ao meu perfil. Aqui você encontra projetos em **Java (Spring Boot)** 
   <!-- Linguagens mais usadas: favorece Java/TypeScript sem esconder PHP/Blade -->
   <a href="https://github.com/Caiquebraga" target="_blank">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga
-&layout=compact
-&langs_count=10
-&theme=blue-green
-&size_weight=0.25
-&count_weight=0.75
-&exclude_repo=repo-php-enorme-1,repo-php-enorme-2
-&v=14"
-         alt="Linguagens mais usadas por Caiquebraga (Java e Angular/TypeScript em destaque)" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquebraga&layout=compact&langs_count=10&theme=blue-green&size_weight=0.25&count_weight=0.75&exclude_repo=repo-php-enorme-1,repo-php-enorme-2&v=15"
+         alt="Linguagens mais usadas por Caiquebraga" />
   </a>
 </div>
 
-> 🔎 **Notas**  
-> • **Angular aparece como TypeScript** (o card contabiliza linguagens, não frameworks).  
-> • `size_weight=0.25` e `count_weight=0.75` dão mais peso para **muitos repos** Java/TS.  
-> • Substitua `repo-php-enorme-1,repo-php-enorme-2` pelos **nomes reais** dos **poucos** repositórios PHP desproporcionalmente grandes (se não tiver, remova o parâmetro).  
-> • `v=14` só força atualizar o cache; aumente o número quando quiser “refresh”.
+> 💡 **Dicas rápidas**
+> - **Angular aparece como TypeScript** (o card conta linguagens, não frameworks).
+> - `size_weight=0.25` e `count_weight=0.75` aumentam a influência de **ter muitos repos** Java/TS.
+> - `exclude_repo=` remove do **cálculo** apenas os repos gigantes (não esconde PHP/Blade do card).
+> - `v=15` só força atualização do cache (mude o número quando quiser “refresh”).
 
 ---
 
